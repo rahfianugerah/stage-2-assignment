@@ -6,8 +6,9 @@
 ### Enigmatics - Samsung Innovation Campus Batch 6
 
 <div align=center>
-  <img alt="Samsung Innovation Campus" src="https://github.com/user-attachments/assets/01ee85b3-3e43-4de5-b131-836bd523e509" />
+  <img width="1584" height="396" alt="Black and Gray Minimalist Shapes Personal Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/87a54e71-07a2-4588-8ccd-f0164c68cbea" />
 </div>
+
 
 #### Welcome
 
